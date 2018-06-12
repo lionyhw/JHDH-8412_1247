@@ -1,0 +1,15 @@
+---- 11111 Matches (16 in 6 files) ----
+ap_peripheral_adaptor_out_judge in ap_peripheral_handling.c (E:\code\program\application\task_peripheral_handling\src) : 					//DBG_PRINT("1111111111111111111\r\n");
+font.h (E:\code\program\application\task_avi_encoder\inc) line 49 : 0xf8,//11111000,
+font.h (E:\code\program\application\task_avi_encoder\inc) line 81 : 0xf8,//11111000,
+font.h (E:\code\program\application\task_avi_encoder\inc) line 127 : 0xf8,//11111000,
+font.h (E:\code\program\application\task_avi_encoder\inc) line 326 : 0x7f,//01111111,
+font.h (E:\code\program\application\task_avi_encoder\inc) line 367 : 0xff,//11111111,
+font.h (E:\code\program\application\task_avi_encoder\inc) line 381 : 0x3f,//00111111,
+font.h (E:\code\program\application\task_avi_encoder\inc) line 385 : 0x78,//01111100,
+font.h (E:\code\program\application\task_avi_encoder\inc) line 425 : 0x7f,//01111111,
+sensor_gc1004_iqj.h (E:\code\program\driver_l2\sensor\inc) line 1719 : 0x114401, 0x045105, 0x11140a, 0x04450e, 0x114413, 0x111117, 0x04511b, 0x044420,  
+sensor_isp_table.c (E:\code\program\driver_l2\cdsp\src) line 1587 : 	0x045102, 0x111407, 0x04510b, 0x114410, 0x111114, 0x051118, 0x04441d, 0x044421, 
+sensor_ov9712_iqj.h (E:\code\program\driver_l2\sensor\inc) line 2422 : 0x11110a, 0x11110e, 0x111112, 0x011116, 0x04441a, 0x11041e, 0x011121, 0x044425, 
+sensor_ov9712_iqj.h (E:\code\program\driver_l2\sensor\inc) line 2560 : 0x111415, 0x111119, 0x04511d, 0x044422, 0x044426, 0x04442a, 0x11102e, 0x111131, 
+state_video_record.c (E:\code\program\application\task_state_handling\state_video_record\src) line 235 : 				__msg("11111\n");
